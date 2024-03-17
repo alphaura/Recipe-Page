@@ -206,6 +206,11 @@ hr {
         padding: 4.5rem;
     }
 
+    .recipe-overview, .ingredients, .instructions, .nutrition {
+        max-width: 80rem;
+        margin: 0 auto;
+    }
+
     img {
         border-radius: 6rem;
     }
