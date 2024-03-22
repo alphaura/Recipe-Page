@@ -171,6 +171,7 @@ hr {
 }
 
 @media ( min-width: 768px ) {
+
     /* Header Section */
 
     .recipe-overview, .ingredients, .instructions, .nutrition, img {
@@ -201,6 +202,17 @@ hr {
 }
 
 @media ( min-width: 1024px ) {
+
+    body {
+        background-color: hsl(30, 54%, 90%);
+    }
+    .challenge {
+        max-width: 60rem;
+        margin: 0 auto;
+        background-color: white;
+        margin-block: 7rem;
+        border-radius: 2rem;
+    }
     
     .recipe-overview, .ingredients, .instructions, .nutrition, img {
         padding: 4.5rem;
