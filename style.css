@@ -214,8 +214,12 @@ hr {
         border-radius: 2rem;
     }
     
-    .recipe-overview, .ingredients, .instructions, .nutrition, img {
+    .recipe-overview, .ingredients, .instructions, .nutrition{
         padding: 1rem 4.5rem 4.5rem;
+    }
+
+    img {
+        padding: 4.5rem;
     }
 
     .recipe-overview, .ingredients, .instructions, .nutrition {
