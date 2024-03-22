@@ -215,7 +215,7 @@ hr {
     }
     
     .recipe-overview, .ingredients, .instructions, .nutrition, img {
-        padding: 4.5rem;
+        padding: 1rem 4.5rem 4.5rem;
     }
 
     .recipe-overview, .ingredients, .instructions, .nutrition {
